@@ -427,15 +427,12 @@ O **Patrimônio Líquido** é a diferença entre os Ativos e os Passivos, e incl
 ### Explicação
 A equação básica do balanço patrimonial é: 
 
-\[
-\text{Ativos} = \text{Passivos} + \text{Patrimônio Líquido}
-\]
+Ativos = Passivos + Patrimônio Líquido
 
 Neste caso:
 
-\[
 860.000 = 170.000 + 600.000
-\]
+
 
 Logo, a equação está respeitada. O balanço demonstra que a empresa tem R$860.000 em ativos, e suas obrigações são de R$170.000, deixando um patrimônio líquido de R$600.000, o que reflete uma situação financeira saudável, pois os ativos superam os passivos.
 
