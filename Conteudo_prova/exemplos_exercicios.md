@@ -386,9 +386,9 @@ Não há informações sobre Passivo Não Circulante, então não será incluíd
 O **Patrimônio Líquido** é a diferença entre os Ativos e os Passivos, e inclui o capital social e lucros retidos.
 
 - **Capital Social:**
-  - Capital Social: R$600.000
+  - Capital Social: R$690.000
   
-  **Total do Patrimônio Líquido = R$600.000**
+  **Total do Patrimônio Líquido = R$690.000**
 
 ---
 
@@ -417,10 +417,10 @@ O **Patrimônio Líquido** é a diferença entre os Ativos e os Passivos, e incl
 | **Total de Passivos**          | 170.000           |
 |                               |                   |
 | **Patrimônio Líquido**         |                   |
-| Capital Social                 | 600.000           |
-| **Total do Patrimônio Líquido**| 600.000           |
+| Capital Social                 | 690.000           |
+| **Total do Patrimônio Líquido**| 690.000           |
 |                               |                   |
-| **Total Passivos + PL**        | 770.000           |
+| **Total Passivos + PL**        | 860.000           |
 
 ---
 
@@ -431,8 +431,4 @@ Ativos = Passivos + Patrimônio Líquido
 
 Neste caso:
 
-860.000 = 170.000 + 600.000
-
-
-Logo, a equação está respeitada. O balanço demonstra que a empresa tem R$860.000 em ativos, e suas obrigações são de R$170.000, deixando um patrimônio líquido de R$600.000, o que reflete uma situação financeira saudável, pois os ativos superam os passivos.
-
+860.000 = 170.000 + 690.000
