@@ -172,6 +172,28 @@ Uma empresa investe R$ 50.000 em uma campanha de marketing e gera R$ 70.000 em v
 
 ---
 
+### Custo unitário
+
+A fórmula básica para o cálculo do preço de custo unitário de um produto é a seguinte:
+
+Preço custo unitário = Custo total de produção / Quantidade produzida​
+ 
+Onde:
+Custo Total de Produção: é a soma de todos os custos envolvidos na produção de uma quantidade específica de produtos. Isso inclui matéria-prima, mão de obra, custos indiretos (energia, aluguel, etc.), transporte, e outros custos associados.
+Quantidade Produzida: é a quantidade total de unidades do produto que foram fabricadas.
+Exemplo de aplicação:
+Imagine que uma empresa gastou os seguintes valores para produzir 500 unidades de um produto:
+
+Matéria-prima: R$5.000
+Mão de obra: R$2.500
+Custos indiretos (energia, aluguel, etc.): R$1.000
+Transporte: R$500
+O Custo Total de Produção seria a soma de todos esses valores:
+
+Custo Total de Produção = 5.000 + 2.500 + 1.000 + 500 = R$9.000
+
+---
+
 ## Matemática
 
 ### Juros Compostos
