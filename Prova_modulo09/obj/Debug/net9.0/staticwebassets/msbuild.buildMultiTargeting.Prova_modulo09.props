@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Prova_modulo09.props" />
-</Project>
