@@ -1,5 +1,10 @@
 # Ponderada Semana 7 – Detecção de Fraudes em Cartões de Crédito
 
+**Integrantes:**
+- Pedro Henrique
+- Kaylane Brito
+- Daniel Mendez
+
 ## 🎯 Objetivo
 O objetivo desta atividade foi analisar um dataset real de transações financeiras e desenvolver um modelo de **detecção de fraudes** utilizando **Redes Neurais com PyTorch**.  
 
